@@ -1,6 +1,4 @@
-![twitter_header_photo_2](https://user-images.githubusercontent.com/22098393/159117663-bd608c22-d3ea-4000-ab5e-0c659621a9ac.png)
-
-Hello! 🖐 I'm asci. I want to be a `front-end developer`.
+Hello! 🖐 I'm asci. I want to be a best `front-end developer`.
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asci-00)](https://github.com/anuraghazra/github-readme-stats) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=asci)](https://solved.ac/asci) 
 
