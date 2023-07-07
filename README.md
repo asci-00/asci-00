@@ -6,6 +6,7 @@ Hello! 🖐 I'm asci. I want to be a best `front-end developer`.
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black)
 ![typescript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=Typescript&logoColor=white)
+![dart](https://img.shields.io/badge/Dart-3298F6.svg?&style=for-the-badge&logo=Dart&logoColor=white)
 
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=black)
 ![babel](https://img.shields.io/badge/Babel-FFF56D.svg?&style=for-the-badge&logo=Babel&logoColor=black)
