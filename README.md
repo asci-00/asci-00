@@ -1,7 +1,6 @@
 Hello! 🖐 I'm asci. I want to be a best `front-end developer`.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asci-00)](https://github.com/anuraghazra/github-readme-stats) [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=asci)](https://solved.ac/asci) 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=asci-00)](https://github.com/anuraghazra/github-readme-stats) 
 ## 👀 Interest
 
 ![javascript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge&logo=Javascript&logoColor=black)
@@ -11,6 +10,7 @@ Hello! 🖐 I'm asci. I want to be a best `front-end developer`.
 ![webpack](https://img.shields.io/badge/Webpack-8DD6F9.svg?&style=for-the-badge&logo=Webpack&logoColor=black)
 ![babel](https://img.shields.io/badge/Babel-FFF56D.svg?&style=for-the-badge&logo=Babel&logoColor=black)
 
+![flutter](https://img.shields.io/badge/Flutter-51bff0.svg?&style=for-the-badge&logo=Flutter&logoColor=white)
 ![react](https://img.shields.io/badge/React-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=black)
 ![vue.js](https://img.shields.io/badge/Vue.js-4FC08D.svg?&style=for-the-badge&logo=Vue.js&logoColor=white)
 
